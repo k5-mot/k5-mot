@@ -10,8 +10,8 @@
   <a href="https://www.reddit.com/user/k5-mot">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/k5-mot?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/37685/k5-mot">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/37685?label=StackOverflow&logo=stack-overflow&style=flat" />
+  <a href="https://stackoverflow.com/users/17671681/k5-mot">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/17671681?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="http://qiita.com/k5-mot">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k5-mot/posts.svg" />
