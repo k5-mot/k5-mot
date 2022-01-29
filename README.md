@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<p align="left"> 
+<!--p align="left"> 
   <a href="https://k5-mot.github.io/">
     <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
   </a>
@@ -43,7 +43,7 @@
   <a href="https://www.quora.com/profile/k5-mot" target="blank">
     <img src="https://simpleicons.org/icons/quora.svg" alt="yutkat" height="30" width="30" />
   </a>
-</p>
+</p-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k5-mot)](https://github.com/anuraghazra/github-readme-stats)
 
