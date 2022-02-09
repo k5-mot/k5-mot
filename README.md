@@ -55,11 +55,17 @@
 ### Documents
 + [open-docs](https://github.com/k5-mot/open-docs)
   
-### Tips 
+### Report
 + [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
 
-### GitHub Actions
+### Configuration
++ [dotfiles](https://github.com/k5-mot/dotfiles)
   
+### GitHub Actions
++ [package-action](https://github.com/k5-mot/package-action)
++ [info-action](https://github.com/k5-mot/info-action)
++ [latexmk-action](https://github.com/k5-mot/latexmk-action)
+
 <!--
 **k5-mot/k5-mot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
