@@ -49,7 +49,16 @@
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default)
 [![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot)](https://github.com/ryo-ma/github-profile-trophy)
 
+  
+## My Repository
+  
+### Documents
++ [open-docs](https://github.com/k5-mot/open-docs)
+  
+### Tips 
++ [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
 
+### GitHub Actions
   
 <!--
 **k5-mot/k5-mot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
