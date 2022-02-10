@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/k5_mot?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/k5-mot">
     <img height="20" src="https://img.shields.io/github/followers/k5-mot?label=follow&logo=github&style=flat" />
