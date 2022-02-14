@@ -64,6 +64,7 @@
 
 ### 💛 Configurations
 - ⚙️ [dotfiles](https://github.com/k5-mot/dotfiles)
+- ⚙️ [code-samples](https://github.com/k5-mot/code-samples)
 
 ### 💚 GitHub Actions
 - 🎈 [package-action](https://github.com/k5-mot/package-action)
