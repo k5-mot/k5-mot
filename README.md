@@ -25,11 +25,11 @@
 </p>
 
 <p align="left">
-  <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5-mot&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=k5-mot&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5-mot&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=k5-mot&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 💘 My Repository
