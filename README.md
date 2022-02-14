@@ -25,8 +25,8 @@
 </p>
 
 <p align="left" width="100%">
-  <img width="50%" lt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5-mot&layout=compact&count_private=true&show_icons=true" />
-  <img width="50%" lt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=k5-mot&count_private=true&show_icons=true&show_icons=true" />
+  <img width="45%" lt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5-mot&layout=compact&count_private=true&show_icons=true" />
+  <img width="45%" lt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=k5-mot&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
 <p align="left" width="100%">
