@@ -24,16 +24,16 @@
   </a>
 </p>
 
-<p align="left">
+<p align="left" width="100%">
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5-mot&layout=compact&count_private=true&show_icons=true" />
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=k5-mot&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-<p>
+<p align="left" width="100%">
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=k5-mot&column=7" />
 </p>
 
-<p>
+<p align="left" width="100%">
   <img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default" />
 </p>
 <!--
