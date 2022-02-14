@@ -55,6 +55,7 @@
 ### Documents
 + 📗 [open-docs](https://github.com/k5-mot/open-docs)
 + 📗 [handout-template](https://github.com/k5-mot/handout-template)
++ 📗 [report-template](https://github.com/k5-mot/report-template)
 
 ### Report
 + 📗 [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
