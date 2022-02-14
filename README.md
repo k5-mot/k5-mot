@@ -50,22 +50,22 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## My Repository
+## ❤️ My Repository
 
-### 📜 Templates
+### 🧭 Templates
 + 📜 [template-handout](https://github.com/k5-mot/template-handout)
 + 📜 [template-report](https://github.com/k5-mot/template-report)
 + 📜 [template-slide](https://github.com/k5-mot/template-slide)
 + 📜 [template-IEEE](https://github.com/k5-mot/template-IEEE)
 + 📜 [template-IPSJ](https://github.com/k5-mot/template-IPSJ)
 
-### 📌 Reports
+### 🧭 Reports
 + 📌 [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
 
-### ⚙️ Configurations
+### 🧭 Configurations
 + ⚙️ [dotfiles](https://github.com/k5-mot/dotfiles)
 
-### 🎈 GitHub Actions
+### 🧭 GitHub Actions
 + 🎈 [package-action](https://github.com/k5-mot/package-action)
 + 🎈 [info-action](https://github.com/k5-mot/info-action)
 + 🎈 [latexmk-action](https://github.com/k5-mot/latexmk-action)
