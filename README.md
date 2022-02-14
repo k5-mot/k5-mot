@@ -29,10 +29,18 @@
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=k5-mot&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
+<p>
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=k5-mot&column=7" />
+</p>
+
+<p>
+  <img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default" />
+</p>
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default)
-
+-->
 
 ## 💘 My Repository
 
