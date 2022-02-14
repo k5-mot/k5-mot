@@ -53,10 +53,11 @@
 ## My Repository
 
 ### Documents
-+ 📗 [open-docs](https://github.com/k5-mot/open-docs)
-+ 📗 [handout-template](https://github.com/k5-mot/handout-template)
-+ 📗 [report-template](https://github.com/k5-mot/report-template)
-+ 📗 [slide-template](https://github.com/k5-mot/report-template)
++ 📗 [template-handout](https://github.com/k5-mot/template-handout)
++ 📗 [template-report](https://github.com/k5-mot/template-report)
++ 📗 [template-slide](https://github.com/k5-mot/template-slide)
++ 📗 [template-IEEE](https://github.com/k5-mot/template-IEEE)
++ 📗 [template-IPSJ](https://github.com/k5-mot/template-IPSJ)
 
 ### Report
 + 📗 [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
