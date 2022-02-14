@@ -19,7 +19,7 @@
   <a href="http://qiita.com/k5-mot">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k5-mot/posts.svg" />
   </a>
-  <//qiita.com/k5-mot">
+  <a href="http://qiita.com/k5-mot">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k5-mot/contributions.svg" />
   </a>
 </p>
