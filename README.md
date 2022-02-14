@@ -1,6 +1,6 @@
 # Hi, I'm k5-mot 👋
 
-<p align="left"> 
+<p align="left">
   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/k5_mot?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<!--p align="left"> 
+<!--p align="left">
   <a href="https://k5-mot.github.io/">
     <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
   </a>
@@ -49,18 +49,19 @@
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default)
 [![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot)](https://github.com/ryo-ma/github-profile-trophy)
 
-  
+
 ## My Repository
-  
+
 ### Documents
 + 📗 [open-docs](https://github.com/k5-mot/open-docs)
-  
++ 📗 [handout-template](https://github.com/k5-mot/handout-template)
+
 ### Report
 + 📗 [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
 
 ### Configuration
 + 📗 [dotfiles](https://github.com/k5-mot/dotfiles)
-  
+
 ### GitHub Actions
 + 📗 [package-action](https://github.com/k5-mot/package-action)
 + 📗 [info-action](https://github.com/k5-mot/info-action)
