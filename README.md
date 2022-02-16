@@ -1,7 +1,7 @@
 # Hi, I'm k5-mot 👋
 
 <p align="left">
-  <a href="http://twitter.com/k5-mot">
+  <a href="http://twitter.com/k5_mot">
     <img height="20" src="https://img.shields.io/twitter/follow/k5_mot?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/k5-mot">
