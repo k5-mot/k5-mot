@@ -36,11 +36,7 @@
 <p align="left" width="100%">
   <img width="100%" alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default" />
 </p>
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default)
--->
 
 ## 💘 My Repository
 
