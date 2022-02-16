@@ -58,6 +58,7 @@
 - 🎈 [package-action](https://github.com/k5-mot/package-action)
 - 🎈 [info-action](https://github.com/k5-mot/info-action)
 - 🎈 [latexmk-action](https://github.com/k5-mot/latexmk-action)
+- 🎈 [auto-hms-action](https://github.com/k5-mot/auto-hms-action)
 
 ### 💙
 ### 💜
