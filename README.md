@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>:bulb: **詳細**</summary>
+  <summary>:bulb: **詳細**  </summary>
   <div>
 
 ## :cupid: My Repositories
