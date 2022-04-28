@@ -1,30 +1,6 @@
 # Hi, I'm k5-mot 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=flat">
-  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=flat">
-  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat">
-  <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat">
-  <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=flat">
-  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat">
-  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=flat">
-  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat">
-  <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat">
-  <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=flat">
-  <img src="https://img.shields.io/badge/-OpenGL-5586A4.svg?logo=opengl&style=flat">
-  <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=flat">
-</p>
-
-<p align="left">
   <a href="https://github.com/k5-mot/k5-mot/">
     <img src="https://komarev.com/ghpvc/?username=k5-mot" alt="GitHub"/>
   </a>
@@ -58,6 +34,31 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/k5-mot/contributions.svg" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
+  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=flat">
+  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=flat">
+  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat">
+  <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat">
+  <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=flat">
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat">
+  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=flat">
+  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat">
+  <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat">
+  <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=flat">
+  <img src="https://img.shields.io/badge/-OpenGL-5586A4.svg?logo=opengl&style=flat">
+  <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=flat">
+  <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=flat">
+  <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=flat">
+  <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=flat">
+</p>
+
 
 <p align="left" width="100%">
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5-mot&layout=compact&count_private=true&show_icons=true" />
