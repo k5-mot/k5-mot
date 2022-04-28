@@ -72,7 +72,7 @@
 <!--p align="left" width="100%">
   <img width="100%" alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default" />
 </p-->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ## 💘 My Repository
 
