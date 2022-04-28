@@ -72,7 +72,13 @@
 <!--p align="left" width="100%">
   <img width="100%" alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default" />
 </p-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/k5-mot/k5-mot/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/k5-mot/k5-mot/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/k5-mot/k5-mot/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://activity-graph.herokuapp.com/graph?username=k5-mot&theme=github)](https://activity-graph.herokuapp.com/graph?username=k5-mot&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=k5-mot&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=k5-mot&theme=dark)
 
 ## 💘 My Repository
 
