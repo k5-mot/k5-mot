@@ -74,7 +74,7 @@
 </p-->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 💘 My Repository
