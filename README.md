@@ -104,11 +104,11 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td>:scroll:</td>
+      <td>:bust_in_silhouette:</td>
       <td>
         <a href="https://github.com/k5-mot/k5-mot">k5-mot</a>
       </td>
-      <td>My Profile</td>
+      <td>:octocat: My GitHub Profile</td>
     </tr>
     <tr>
       <td>:scroll:</td>
