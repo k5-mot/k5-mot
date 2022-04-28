@@ -70,6 +70,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-tmux-505050.svg?logo=tmux&style=popout">
   <img src="https://img.shields.io/badge/-Git-ffffff.svg?logo=git&style=popout">
   <img src="https://img.shields.io/badge/-Starship-DD0B78.svg?logo=starship&style=popout">
+  <img src="https://img.shields.io/badge/-Alacritty-404040.svg?logo=alacritty&style=popout">
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=popout">
   <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=popout">
   <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=popout">
