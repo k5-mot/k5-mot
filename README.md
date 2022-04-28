@@ -71,6 +71,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=popout">
   <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=popout">
   <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=popout">
+  <img src="https://img.shields.io/badge/-GNUPLOT-A42E2B.svg?logo=gnu&style=popout">
   <img src="https://img.shields.io/badge/-OpenGL-283A57.svg?logo=opengl&style=popout">
   <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=popout">
   <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=popout">
