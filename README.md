@@ -1,4 +1,11 @@
 # Hi, I'm k5-mot 👋
+<p align="left">
+  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
+  <img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=plastic">
+  <img src="https://img.shields.io/badge/-Cplusplus-00599C.svg?logo=cplusplus&style=plastic">
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=plastic">
+  </p>
 
 <p align="left">
   <a href="https://github.com/k5-mot/k5-mot/">
