@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    :bulb: yousai
+    :bulb: 詳細
   </summary>
   <div>
 
@@ -114,5 +114,3 @@ Here are some ideas to get you started:
 
   </div>
 </details>
-
-
