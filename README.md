@@ -11,10 +11,12 @@
   <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=plastic">
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
+  <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=plastic">
   <img src="https://img.shields.io/badge/-OpenGL-5586A4.svg?logo=opengl&style=plastic">
   <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=plastic">
   <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=plastic">
   <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=plastic">
+  <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=plastic">
 </p>
 
 <p align="left">
