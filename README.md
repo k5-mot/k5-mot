@@ -10,6 +10,14 @@
   <a href="https://github.com/k5-mot">
     <img height="20" src="https://img.shields.io/github/followers/k5-mot?label=follow&logo=github&style=flat" />
   </a>
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/k5_mot/articles">
+    <img src="https://zenn.badge.nikaera.com/s/k5_mot/articles?style=plastic" alt="k5_mot articles" />
+  </a>
+ <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/k5_mot/followers">
+    <img src="https://zenn.badge.nikaera.com/s/k5_mot/followers?style=plastic" alt="k5_mot followers" />
+  </a>
   <!--a href="https://www.reddit.com/user/k5-mot">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/k5-mot?label=Reddit&logo=reddit&style=flat" />
   </a-->
