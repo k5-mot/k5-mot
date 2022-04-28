@@ -65,10 +65,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=popout">
   <img src="https://img.shields.io/badge/-Neovim-1b7677.svg?logo=neovim&style=popout">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=popout">
-  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=popout">
+  <img src="https://img.shields.io/badge/-Git-ffffff.svg?logo=git&style=popout">
   <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=popout">
   <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=popout">
-  <img src="https://img.shields.io/badge/-OpenGL-5586A4.svg?logo=opengl&style=popout">
+  <img src="https://img.shields.io/badge/-OpenGL-283A57.svg?logo=opengl&style=popout">
   <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=popout">
   <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=popout">
   <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=popout">
