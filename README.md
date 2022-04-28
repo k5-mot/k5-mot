@@ -93,12 +93,60 @@ Here are some ideas to get you started:
 
 ## 💘 My Repository
 
-### ❤️ Templates
-- 📜 [template-handout](https://github.com/k5-mot/template-handout)
-- 📜 [template-report](https://github.com/k5-mot/template-report)
-- 📜 [template-slide](https://github.com/k5-mot/template-slide)
-- 📜 [template-IEEE](https://github.com/k5-mot/template-IEEE)
-- 📜 [template-IPSJ](https://github.com/k5-mot/template-IPSJ)
+<table>
+  <tbody>
+    <tr>
+      <td>:scroll:</td>
+      <td>
+        <a href="https://github.com/k5-mot/template-handout">template-handout</a>
+      </td>
+    </tr>
+    <tr>
+      <td>:scroll:</td>
+      <td>
+        <a href="https://github.com/k5-mot/template-report">template-report</a>
+      </td>
+    </tr>
+    <tr>
+      <td>:scroll:</td>
+      <td>
+        <a href="https://github.com/k5-mot/template-slide">template-slide</a>
+      </td>
+    </tr>
+    <tr>
+      <td>:scroll:</td>
+      <td>
+        <a href="https://github.com/k5-mot/template-IEEE">template-IEEE</a>
+      </td>
+    </tr>
+    <tr>
+      <td>:scroll:</td>
+      <td>
+        <a href="https://github.com/k5-mot/template-IPSJ">template-IPSJ</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/nu-slab/">柴田研究室 GitHub TOP</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/nu-slab/.internal">柴田研究室 GitHub Private</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/nu-slab/.internal">柴田研究室 GitHub Private</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ### 🧡 Reports
 - 📌 [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
