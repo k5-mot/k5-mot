@@ -1,6 +1,9 @@
 # Hi, I'm k5-mot 👋
 
 <p align="left">
+  <a href="https://github.com/k5-mot/k5-mot/">
+    <img src="https://komarev.com/ghpvc/?username=k5-mot" alt="GitHub"/>
+  </a>
   <a href="http://twitter.com/k5_mot">
     <img height="20" src="https://img.shields.io/twitter/follow/k5_mot?label=Twitter&logo=twitter&style=flat" />
   </a>
