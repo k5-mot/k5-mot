@@ -94,76 +94,102 @@ Here are some ideas to get you started:
 ## 💘 My Repository
 
 <table>
+  <thead>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>:scroll:</td>
       <td>
         <a href="https://github.com/k5-mot/template-handout">template-handout</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
         <a href="https://github.com/k5-mot/template-report">template-report</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
         <a href="https://github.com/k5-mot/template-slide">template-slide</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
         <a href="https://github.com/k5-mot/template-IEEE">template-IEEE</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
         <a href="https://github.com/k5-mot/template-IPSJ">template-IPSJ</a>
       </td>
+      <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>:bulb:</td>
       <td>
-        <a href="https://github.com/nu-slab/">柴田研究室 GitHub TOP</a>
+        <a href="https://github.com/k5-mot/The-Dining-Philosophers-Problem">The-Dining-Philosophers-Problem</a>
       </td>
+      <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>:gear:</td>
       <td>
-        <a href="https://github.com/nu-slab/.internal">柴田研究室 GitHub Private</a>
+        <a href="https://github.com/k5-mot/dotfiles">dotfiles</a>
       </td>
+      <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>:gear:</td>
       <td>
-        <a href="https://github.com/nu-slab/.internal">柴田研究室 GitHub Private</a>
+        <a href="https://github.com/k5-mot/code-samples">code-samples</a>
       </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>:rocket:</td>
+      <td>
+        <a href="https://github.com/k5-mot/package-action">package-action</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>:rocket:</td>
+      <td>
+        <a href="https://github.com/k5-mot/info-action">info-action</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>:rocket:</td>
+      <td>
+        <a href="https://github.com/k5-mot/latexmk-action">latexmk-action</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>:rocket:</td>
+      <td>
+        <a href="https://github.com/k5-mot/auto-hms-action">auto-hms-action</a>
+      </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-
-
-### 🧡 Reports
-- 📌 [The-Dining-Philosophers-Problem](https://github.com/k5-mot/The-Dining-Philosophers-Problem)
-
-### 💛 Configurations
-- ⚙️ [dotfiles](https://github.com/k5-mot/dotfiles)
-- ⚙️ [code-samples](https://github.com/k5-mot/code-samples)
-
-### 💚 GitHub Actions
-- 🎈 [package-action](https://github.com/k5-mot/package-action)
-- 🎈 [info-action](https://github.com/k5-mot/info-action)
-- 🎈 [latexmk-action](https://github.com/k5-mot/latexmk-action)
-- 🎈 [auto-hms-action](https://github.com/k5-mot/auto-hms-action)
-
-### 💙
-### 💜
-### 🤎
-
   </div>
 </details>
+
+
