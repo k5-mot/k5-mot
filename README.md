@@ -51,27 +51,28 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=flat">
-  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=flat">
-  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat">
-  <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat">
-  <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=flat">
-  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat">
-  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=flat">
-  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat">
-  <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat">
-  <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=flat">
-  <img src="https://img.shields.io/badge/-OpenGL-5586A4.svg?logo=opengl&style=flat">
-  <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=flat">
-  <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=flat">
+  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=popout">
+  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=popout">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=popout">
+  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=popout">
+  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=popout">
+  <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=popout">
+  <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=popout">
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=popout">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=popout">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=popout">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=popout">
+  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=popout">
+  <img src="https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=popout">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=popout">
+  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=popout">
+  <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=popout">
+  <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=popout">
+  <img src="https://img.shields.io/badge/-OpenGL-5586A4.svg?logo=opengl&style=popout">
+  <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=popout">
+  <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=popout">
+  <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=popout">
+  <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=popout">
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&column=7)](https://github.com/ryo-ma/github-profile-trophy)
