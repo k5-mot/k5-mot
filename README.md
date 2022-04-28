@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <table>
   <thead>
     <tr>
-      <td>Type</td>
-      <td>Title</td>
-      <td>Detail</td>
+      <th>Type</th>
+      <th>Title</th>
+      <th>Detail</th>
     </tr>
   </thead>
   <tbody>
