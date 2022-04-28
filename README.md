@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=popout">
   <img src="https://img.shields.io/badge/-Neovim-c0c0c0.svg?logo=Neovim&style=popout">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=popout">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visualstudio&style=popout">
   <img src="https://img.shields.io/badge/-Git-ffffff.svg?logo=git&style=popout">
   <img src="https://img.shields.io/badge/-Starship-DD0B78.svg?logo=starship&style=popout">
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=popout">
