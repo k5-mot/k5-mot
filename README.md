@@ -91,14 +91,14 @@ Here are some ideas to get you started:
   </summary>
   <div>
 
-## 💘 My Repository
+## 💘 My Repositories
 
 <table>
   <thead>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Type</td>
+      <td>Title</td>
+      <td>Detail</td>
     </tr>
   </thead>
   <tbody>
