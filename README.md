@@ -1,5 +1,9 @@
 # Hi, I'm k5-mot 👋
 <p align="left">
+  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic">
+  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
+  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=plastic">
   <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=plastic">
   <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic">
   <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=plastic">
