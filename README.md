@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   </summary>
   <div>
 
-## :heart_with_arrow: My Repositories
+## :cupid: My Repositories
 
 <table>
   <thead>
