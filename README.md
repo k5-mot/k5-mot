@@ -1,3 +1,18 @@
+<!--
+**k5-mot/k5-mot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 # Hi, I'm k5-mot 👋
 
 <p align="left">
@@ -59,25 +74,17 @@
   <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=flat">
 </p>
 
-
-<!--p align="left">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5-mot&layout=compact&count_private=true&show_icons=true" />
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=k5-mot&count_private=true&show_icons=true&show_icons=true" />
-</p>
-
-<p align="left">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=k5-mot&column=7" />
-</p-->
-
-<!--p align="left" width="100%">
-  <img width="100%" alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k5-mot&theme=default" />
-</p-->
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<details>
+  <summary>
+    :bulb: yousai
+  </summary>
+  <div>
 
 ## 💘 My Repository
 
@@ -105,19 +112,7 @@
 ### 💜
 ### 🤎
 
+  </div>
+</details>
 
 
-<!--
-**k5-mot/k5-mot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
