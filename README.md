@@ -10,15 +10,15 @@
   <a href="https://github.com/k5-mot">
     <img height="20" src="https://img.shields.io/github/followers/k5-mot?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/k5-mot">
+  <!--a href="https://www.reddit.com/user/k5-mot">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/k5-mot?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/18057054/k5-mot">
+  </a-->
+  <!--a href="https://stackoverflow.com/users/18057054/k5-mot">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/18057054?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="https://ja.stackoverflow.com/users/37685/k5-mot">
+  </a-->
+  <!--a href="https://ja.stackoverflow.com/users/37685/k5-mot">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/18057054?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
+  </a-->
   <a href="http://qiita.com/k5-mot">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k5-mot/posts.svg" />
   </a>
