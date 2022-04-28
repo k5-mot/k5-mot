@@ -58,12 +58,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-C-4682b4.svg?logo=c&style=popout">
   <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=popout">
   <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=popout">
-  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=popout">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=popout">
+  <img src="https://img.shields.io/badge/-Python-FFD43B.svg?logo=python&style=popout">
+  <img src="https://img.shields.io/badge/-HTML5-ebebeb.svg?logo=html5&style=popout">
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=popout">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=popout">
+  <img src="https://img.shields.io/badge/-JavaScript-323330.svg?logo=javascript&style=popout">
   <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=popout">
-  <img src="https://img.shields.io/badge/-Neovim-57A143.svg?logo=neovim&style=popout">
+  <img src="https://img.shields.io/badge/-Neovim-1b7677.svg?logo=neovim&style=popout">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=popout">
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=popout">
   <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=popout">
