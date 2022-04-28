@@ -2,6 +2,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=plastic">
   <img src="https://img.shields.io/badge/-Cplusplus-00599C.svg?logo=cplusplus&style=plastic">
+  <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=plastic">
   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
   <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=plastic">
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=plastic">
@@ -10,7 +11,10 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=plastic">
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
   <img src="https://img.shields.io/badge/-OpenGL-5586A4.svg?logo=opengl&style=plastic">
-  </p>
+  <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=plastic">
+  <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=plastic">
+  <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=plastic">
+</p>
 
 <p align="left">
   <a href="https://github.com/k5-mot/k5-mot/">
